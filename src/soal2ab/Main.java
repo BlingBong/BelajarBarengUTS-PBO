@@ -1,4 +1,4 @@
-package soal1;
+package soal2ab;
 
 public class Main {
     public static void main(String[] args) {

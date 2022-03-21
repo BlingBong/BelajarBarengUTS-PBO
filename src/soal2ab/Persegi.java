@@ -1,4 +1,4 @@
-package soal1;
+package soal2ab;
 
 public class Persegi {
     private int panjang, lebar; // attribute
